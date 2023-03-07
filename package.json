@@ -1,0 +1,24 @@
+{
+  "name": "eleven-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "eleven-cli": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^10.0.0",
+    "download-git-repo": "^3.0.2",
+    "open": "^8.4.2",
+    "shelljs": "^0.8.5"
+  },
+  "devDependencies": {
+    "@types/node": "^18.14.6"
+  }
+}
