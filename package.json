@@ -1,5 +1,5 @@
 {
-  "name": "elevending-cli",
+  "name": "dsy-cli",
   "version": "1.0.1",
   "description": "help you create a vue project",
   "main": "index.js",
@@ -9,7 +9,7 @@
     "url": "https://github.com/Eleven-Ding/eleven-cli"
   },
   "bin": {
-    "elevending-cli": "index.js"
+    "dsycli": "index.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
