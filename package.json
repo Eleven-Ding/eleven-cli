@@ -9,7 +9,7 @@
     "url": "https://github.com/Eleven-Ding/eleven-cli"
   },
   "bin": {
-    "eleven-cli": "index.js"
+    "elevending-cli": "index.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
